@@ -27,4 +27,5 @@
       5. Agent's performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## 🚀 Output:
-(Dashboard/call center.jpg)
+![Data Architecture](Dashboard/call .png)
+
