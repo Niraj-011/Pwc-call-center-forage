@@ -36,7 +36,8 @@
      suggestions as to what needs to be changed
 
 ## 🚀 Output:
-** Email
+**Email**
+     
       Niraj Mewada
       Subject: Update on Project Progress
    
