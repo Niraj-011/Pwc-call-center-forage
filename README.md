@@ -36,6 +36,30 @@
      suggestions as to what needs to be changed
 
 ## 🚀 Output:
+** Email
+   Niraj Mewada
+   Subject: Update on Project Progress
+
+   Dear Claire,
+
+      I hope this email finds you well. I wanted to provide you with a brief update on the progress of our current project.
+   
+      Over the past few weeks, the team has been diligently working on this churn data for finding out insights. We've encountered some key insights, and I believe it's important 
+      for  you to be informed about our efforts to address them.
+   
+      1) Increase tech support capacity for Fiber Optic customers and lower tech tickets per customer to 0.5
+      2) Increase sale of 1 and 2 year contracts by 5% each
+      3) Yearly increase of automatic payments by 5%
+      
+      As we move forward, we are focused on increasing the key performance indicators and ensuring that we stay on track with the project timeline. If you have any specific 
+      preferences or areas of concern, you'd like us to prioritize, please feel free to let me know.
+      
+      Additionally, we are open to scheduling a brief meeting at your convenience to discuss the project in more detail or address any questions or feedback you may have.
+      
+      Thank you for your continued support, and I look forward to hearing from you.
+
+   Best Regards,
+   Niraj Mewada
 ![Task 2](DashBoard/churn.jpg)
 ![Task 2](DashBoard/customer_risk_analysis.jpg)
 
