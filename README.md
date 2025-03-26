@@ -64,3 +64,22 @@
 ![Task 2](DashBoard/churn.jpg)
 ![Task 2](DashBoard/customer_risk_analysis.jpg)
 
+## 🎯 Task 3:
+   1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+   2. Write what you think some root causes of their slow progress might be
+
+      Measures :
+      # of men
+      # of women
+      # of leavers
+      % employees promoted (FY21)
+      % of women promoted
+      % of hires men
+      % of hires women
+      % turnover 
+      Average performance rating: men
+      Average Performance rating: women
+      
+## 🚀 Output:
+![Task 3](DashBoard/diversity_inclusio_1.jpg)
+![Task 1](DashBoard/diversity_inclusion_2.jpg)
