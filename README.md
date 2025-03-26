@@ -37,10 +37,10 @@
 
 ## 🚀 Output:
 ** Email
-   Niraj Mewada
-   Subject: Update on Project Progress
-
-   Dear Claire,
+      Niraj Mewada
+      Subject: Update on Project Progress
+   
+      Dear Claire,
 
       I hope this email finds you well. I wanted to provide you with a brief update on the progress of our current project.
    
@@ -58,8 +58,8 @@
       
       Thank you for your continued support, and I look forward to hearing from you.
 
-   Best Regards,
-   Niraj Mewada
+      Best Regards,
+      Niraj Mewada
 ![Task 2](DashBoard/churn.jpg)
 ![Task 2](DashBoard/customer_risk_analysis.jpg)
 
