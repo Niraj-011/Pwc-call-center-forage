@@ -27,5 +27,15 @@
       5. Agent's performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## 🚀 Output:
-![Data Architecture](DashBoard/call_center.jpg)
+![Task 1](DashBoard/call_center.jpg)
+
+## 🎯 Task 2:   
+  1. Define proper KPIs
+  2. Create a dashboard for the retention manager reflecting the KPIs
+  3. Write a short email to him (the engagement partner) explaining your findings, and include    
+     suggestions as to what needs to be changed
+
+## 🚀 Output:
+![Task 2](DashBoard/churn.jpg)
+![Task 2](DashBoard/customer_risk_analysis.jpg)
 
