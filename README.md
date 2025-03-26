@@ -68,17 +68,17 @@
    1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
    2. Write what you think some root causes of their slow progress might be
 
-         Measures :
-         No of men
-         No of women
-         No of leavers
-         % employees promoted (FY21)
-         % of women promoted
-         % of hires men
-         % of hires women
-         % turnover 
-         Average performance rating: men
-         Average Performance rating: women
+        ## Measures :
+               No of men
+               No of women
+               No of leavers
+               % employees promoted (FY21)
+               % of women promoted
+               % of hires men
+               % of hires women
+               % turnover 
+               Average performance rating: men
+               Average Performance rating: women
       
 ## 🚀 Output:
 ![Task 3](DashBoard/diversity_inclusio_1.jpg)
